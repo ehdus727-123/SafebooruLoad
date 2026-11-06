@@ -1,0 +1,4 @@
+[client]
+user=sb
+password=여기에_비밀번호
+default-character-set=utf8mb4
